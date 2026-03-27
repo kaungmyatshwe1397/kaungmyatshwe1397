@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
  💼 a developer with strong bussiness expertise 
  
- 🎓 MBA Candidate @ UTCC (Bangkok)
- 
  🚀 Building products, exploring cloud, and solving real problems  
 
 ---
@@ -32,16 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-## 🚀 Current Projects
-
-### 🛠 Scrum Helper (GSoC-style contribution)
-- Improving productivity tools for teams
-- Working on testing, UI, and feature enhancements
-
-### 🎨 Art AI-Studio (Gemini API hackathon)
-- AI-powered pre-visualization tool
-- Director Studio + Artist Studio workflows
-- React + TypeScript + AI integration
+<!-- ## 🚀 Current Projects
+![](
 
 
 
@@ -81,4 +71,4 @@ Here are some ideas to get you started:
 
 ## ⚡ Fun Fact
 
-I combine **healthcare + business + tech** to build practical, real-world solutions.
+I combine **healthcare + business + tech** to build practical, real-world solutions.-->
