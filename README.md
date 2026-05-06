@@ -1,74 +1,66 @@
+# Kaung Myat Shwe
 
+Software developer with strong business and healthcare domain knowledge. I build practical products, explore cloud technologies, and focus on solving real-world problems with clear user experiences.
 
-<!--
-**kaungmyatshwe1397/kaungmyatshwe1397** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Full-stack developer with a JavaScript and TypeScript background
+- Strong understanding of UI and UX design patterns
+- Experience working across business-focused and healthcare-related products
+- Interested in product design, cloud platforms, and shipping useful software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Kaung 👋
+## What I Work On
 
- 💼 a developer with strong bussiness expertise 
- 
- 🚀 Building products, exploring cloud, and solving real problems  
+- Building web applications and backend services
+- Creating responsive interfaces with clean, maintainable code
+- Connecting product requirements with technical implementation
+- Improving developer workflows and project quality
 
----
+## Selected Projects
 
-## 🧠 About Me
+- [dental-commerce-service](https://github.com/kaungmyatshwe1397/dental-commerce-service) - Backend service for a dental product commerce platform
+- [dental-commerce-frontend](https://github.com/kaungmyatshwe1397/dental-commerce-frontend) - Frontend for the dental commerce platform
+- [social-app-client](https://github.com/kaungmyatshwe1397/social-app-client) - React and Vite social app client with MUI and React Query
+- [social-app-api](https://github.com/kaungmyatshwe1397/social-app-api) - Express and Prisma API with JWT authentication and SQLite
+- [Hoppy](https://github.com/kaungmyatshwe1397/Hoppy) - 2D game built with JavaScript
+- [Safe-Pass-Guardian](https://github.com/kaungmyatshwe1397/Safe-Pass-Guardian) - Content filtering app for younger users
 
-- A javascript full-stack developer
-- strong understanding of UI and UX  design patterns
-- Strong business and healthcare domain knowledge
-
----
-
-<!-- ## 🚀 Current Projects
-![](
-
-
-
----
-
-## 🧰 Tech Stack
+## Tech Stack
 
 **Frontend**
-- React, TypeScript, Nextjs, Tailwind CSS
+- React
+- TypeScript
+- Next.js
+- Tailwind CSS
+- Material UI
+- Vite
 
 **Backend**
-- Node.js, Express.js , Prisma , Firebase
+- Node.js
+- Express.js
+- Prisma
+- Firebase
+- SQLite
 
 **Cross-platform**
-- React-native
-
-**Cloud**
-- Google Cloud
+- React Native
+- Expo
 
 **Tools**
-- Git, GitHub, Figma
+- Git
+- GitHub
+- Figma
+- Google Cloud
 
----
+## Current Focus
 
-## 📈 GitHub Stats
+I am currently focused on building products that combine strong UX, reliable engineering, and business value. My goal is to keep improving my full-stack skills while delivering software that is simple to use and easy to maintain.
 
-![Kaung's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+## Contact
 
----
-
-## 🌐 Connect With Me
-
-- LinkedIn: 
 - Email: kaungmyatshwe1@gmail.com
+- GitHub: [kaungmyatshwe1397](https://github.com/kaungmyatshwe1397)
 
----
+## Fun Fact
 
-## ⚡ Fun Fact
-
-I combine **healthcare + business + tech** to build practical, real-world solutions.-->
+I like combining healthcare, business, and technology to build practical solutions.
