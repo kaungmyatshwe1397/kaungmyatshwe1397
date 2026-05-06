@@ -18,12 +18,10 @@ Software developer with strong business and healthcare domain knowledge. I build
 
 ## Selected Projects
 
-- [dental-commerce-service](https://github.com/kaungmyatshwe1397/dental-commerce-service) - Backend service for a dental product commerce platform
-- [dental-commerce-frontend](https://github.com/kaungmyatshwe1397/dental-commerce-frontend) - Frontend for the dental commerce platform
 - [social-app-client](https://github.com/kaungmyatshwe1397/social-app-client) - React and Vite social app client with MUI and React Query
 - [social-app-api](https://github.com/kaungmyatshwe1397/social-app-api) - Express and Prisma API with JWT authentication and SQLite
 - [Hoppy](https://github.com/kaungmyatshwe1397/Hoppy) - 2D game built with JavaScript
-- [Safe-Pass-Guardian](https://github.com/kaungmyatshwe1397/Safe-Pass-Guardian) - Content filtering app for younger users
+
 
 ## Tech Stack
 
